@@ -7,11 +7,9 @@ https://www.amazon.ca/dp/B0CRYSWHMN?psc=1&smid=AH4BA7ZSX8I14&ref_=chk_typ_imgToD
 
 It shows the RGB values and the pause interval in microseconds (0-255) on the 1602 (with backpack) display.
 
-I believe this version will work as intended. I am still waiting for my laser.
+My Laser has arrived. I have tested the Laser and modified the code appropiately.
 
-This is a work in progress.
 
-Will keep it updated, hopefully.
 
 Copyright 2024 Ron Lyttle.
 
